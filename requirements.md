@@ -1,6 +1,5 @@
  ✅ **COMPLETE requirements.md** (Everything Included)
 
-```markdown
 # MVP - Ethnic Fusion Inventory Forecasting
 
 ## 🎯 Problem Statement
@@ -122,5 +121,4 @@ Unlike Myntra/KALKI (Western focus):
 - Festival-specific multipliers (India-only insight)
 - Offline MVP (works on ₹99 hosting)
 - 25% accuracy improvement vs manual
-```
 ```
